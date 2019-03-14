@@ -345,8 +345,8 @@ setting for more specifics.</p>
   </thead>
   <tbody>
   <tr>
-    <td><var>scale</var>%</td>
-    <td>Height and width both scaled by specified percentage.</td>
+  <td><var>scale</var>%</td>
+  <td>Height and width both scaled by specified percentage.</td>
   </tr>
   <tr>
     <td><var>scale-x</var>%x<var>scale-y</var>%</td>
