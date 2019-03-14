@@ -11,7 +11,7 @@ The current release is ImageMagick 7.0.8-33. It runs on Linux, Windows, Mac Os X
 
 The authoritative ImageMagick web site is https://imagemagick.org. The authoritative source code repository is https://github.com/ImageMagick. We maintain a source code mirror at https://gitlab.com/ImageMagick. We continue to maintain the legacy release of ImageMagick, version 6, at https://legacy.imagemagick.org.
 
-###Features and Capabilities
+### Features and Capabilities
 Here are just a few examples of what ImageMagick can do for you:
 
 Animation	create a GIF animation sequence from a group of images.
