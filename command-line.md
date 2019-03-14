@@ -345,8 +345,8 @@ setting for more specifics.</p>
   </thead>
   <tbody>
   <tr>
-  <td><var>scale</var>%</td>
-  <td>Height and width both scaled by specified percentage.</td>
+    <td><var>scale</var>%</td>
+    <td>Height and width both scaled by specified percentage.</td>
   </tr>
   <tr>
     <td><var>scale-x</var>%x<var>scale-y</var>%</td>
@@ -387,7 +387,6 @@ setting for more specifics.</p>
     <td><var>x</var>:<var>y</var></td>
     <td>Here x and y denotes an aspect ratio (e.g. 3:2 = 1.5).</td>
   </tr>
-  
   <tr>
     <td>{<var>size</var>}{<var>offset</var>}</td>
     <td>Specifying the <var>offset</var> (default is <code>+0+0</code>). Below, {<var>size</var>} refers to any of the forms above.</td>
