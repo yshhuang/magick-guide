@@ -1,5 +1,3 @@
-<main class="container">
-    <div class="magick-template">
 <div class="magick-header">
 <p class="text-center"><a href="#unix">Unix Binary Release</a> • <a href="#macosx">Mac OS X Binary Release</a> • <a href="#iOS">iOS Binary Release</a> • <a href="#windows">Windows Binary Release</a></p>
 
@@ -20,39 +18,36 @@
     <th>FTP</th>
     <th>Description</th>
   </tr>
-
   <tr>
-  
+      <td>ImageMagick-7.0.8-33.x86_64.rpm</td>
+      <td><a href="https://imagemagick.org/download/linux/CentOS/x86_64/ImageMagick-7.0.8-33.x86_64.rpm">download</a></td>
+    <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/linux/CentOS/x86_64/ImageMagick-7.0.8-33.x86_64.rpm">download</a></td>
+    <td>Redhat / CentOS 7.1 x86_64 RPM</td>
   </tr>
-
   <tr>
       <td>ImageMagick-libs-7.0.8-33.x86_64.rpm</td>
       <td><a href="https://imagemagick.org/download/linux/CentOS/x86_64/ImageMagick-libs-7.0.8-33.x86_64.rpm">download</a></td>
     <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/linux/CentOS/x86_64/ImageMagick-libs-7.0.8-33.x86_64.rpm">download</a></td>
     <td>Redhat / CentOS 7.1 x86_64 RPM</td>
   </tr>
-
   <tr>
     <td>ImageMagick RPM's</td>
     <td><a href="https://imagemagick.org/download/linux/CentOS">download</a></td>
     <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/linux/CentOS">download</a></td>
     <td>Development, Perl, C++, and documentation RPM's.</td>
   </tr>
-
   <tr>
     <td>ImageMagick-i386-pc-solaris2.11.tar.gz</td>
     <td><a href="https://imagemagick.org/download/binaries/ImageMagick-i386-pc-solaris2.11.tar.gz">download</a></td>
     <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-i386-pc-solaris2.11.tar.gz">download</a></td>
     <td>Solaris Sparc 2.11</td>
   </tr>
-
   <tr>
     <td>ImageMagick-i686-pc-cygwin.tar.gz</td>
     <td><a href="https://imagemagick.org/download/binaries/ImageMagick-i686-pc-cygwin.tar.gz">download</a></td>
     <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-i686-pc-cygwin.tar.gz">download</a></td>
     <td>Cygwin</td>
   </tr>
-
   <tr>
     <td>ImageMagick-i686-pc-mingw32.tar.gz</td>
     <td><a href="https://imagemagick.org/download/binaries/ImageMagick-i686-pc-mingw32.tar.gz">download</a></td>
@@ -113,7 +108,6 @@ display logo.gif</code></pre>
     <th>FTP</th>
     <th>Description</th>
   </tr>
-
   <tr>
     <td>ImageMagick-x86_64-apple-darwin17.7.0.tar.gz</td>
     <td><a href="https://imagemagick.org/download/binaries/ImageMagick-x86_64-apple-darwin17.7.0.tar.gz">download</a></td>
@@ -224,7 +218,6 @@ display logo.gif</code></pre>
     <th>FTP</th>
     <th>Description</th>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q16-x64-dll.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q16-x64-dll.exe">download</a></td>
@@ -244,91 +237,78 @@ display logo.gif</code></pre>
     <th>FTP</th>
     <th>Description</th>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q16-x64-static.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q16-x64-static.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q16-x64-static.exe">download</a></td>
    <td>Win64 static at 16 bits-per-pixel component</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q8-x64-dll.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q8-x64-dll.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q8-x64-dll.exe">download</a></td>
    <td>Win64 dynamic at 8 bits-per-pixel component</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q8-x64-static.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q8-x64-static.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q8-x64-static.exe">download</a></td>
     <td>Win64 static at 8 bits-per-pixel component</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q16-HDRI-x64-dll.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q16-HDRI-x64-dll.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q16-HDRI-x64-dll.exe">download</a></td>
     <td>Win64 dynamic at 16 bits-per-pixel component with <a href="/script/../script/high-dynamic-range.php">high dynamic-range imaging</a> enabled</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q16-HDRI-x64-static.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q16-HDRI-x64-static.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q16-HDRI-x64-static.exe">download</a></td>
     <td>Win64 static at 16 bits-per-pixel component with <a href="/script/../script/high-dynamic-range.php">high dynamic-range imaging</a> enabled</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q16-x86-dll.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q16-x86-dll.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q16-x86-dll.exe">download</a></td>
     <td>Win32 dynamic at 16 bits-per-pixel component</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q16-x86-static.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q16-x86-static.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q16-x86-static.exe">download</a></td>
     <td>Win32 static at 16 bits-per-pixel component</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q8-x86-dll.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q8-x86-dll.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q8-x86-dll.exe">download</a></td>
     <td>Win32 dynamic at 8 bits-per-pixel component</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q8-x86-static.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q8-x86-static.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q8-x86-static.exe">download</a></td>
     <td>Win32 static at 8 bits-per-pixel component</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q16-HDRI-x86-dll.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q16-HDRI-x86-dll.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q16-HDRI-x86-dll.exe">download</a></td>
     <td>Win32 dynamic at 16 bits-per-pixel component with <a href="/script/../script/high-dynamic-range.php">high dynamic-range imaging</a> enabled</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-Q16-HDRI-x86-static.exe</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-Q16-HDRI-x86-static.exe">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-Q16-HDRI-x86-static.exe">download</a></td>
     <td>Win32 static at 16 bits-per-pixel component with <a href="/script/../script/high-dynamic-range.php">high dynamic-range imaging</a> enabled</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-portable-Q16-x86.zip</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-portable-Q16-x86.zip">download</a></td>
       <td><a href="ftp://ftp.imagemagick.org/pub/ImageMagick/binaries/ImageMagick-7.0.8-33-portable-Q16-x86.zip">download</a></td>
     <td>Portable Win32 static at 16 bits-per-pixel component.  Just copy to your host and run (no installer, no Windows registry entries).</td>
   </tr>
-
   <tr>
         <td>ImageMagick-7.0.8-33-portable-Q16-x64.zip</td>
         <td><a href="https://imagemagick.org/download/binaries/ImageMagick-7.0.8-33-portable-Q16-x64.zip">download</a></td>
@@ -357,5 +337,3 @@ objShell.Exec("magick ""e:/myimages/image.png"" ""e:/myimages/image.jpg""")</cod
 <p>Congratulations, you have a working ImageMagick distribution under Windows and you are ready to use ImageMagick to <a href="https://imagemagick.org/Usage/">convert, compose, or edit</a> your images or perhaps you'll want to use one of the <a href="/script/../script/develop.php">Application Program Interfaces</a> for C, C++, Perl, and others.</p>
 
 </div>
-    </div>
-  </main>
