@@ -1,6 +1,7 @@
-[Features and Capabilities](#Features-and-Capabilities
-) • News • Community
-
+## [Home](https://imagemagick.org/index.php)
+[Features and Capabilities](#features-and-capabilities
+) • [News]() • Community
+![image](https://imagemagick.org/image/wizard.jpg)
 And Now a Touch of Magick Use ImageMagick® to create, edit, compose, or convert bitmap images. It can read and write images in a variety of formats (over 200) including PNG, JPEG, GIF, HEIC, TIFF, DPX, EXR, WebP, Postscript, PDF, and SVG. Use ImageMagick to resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves.
 
 ImageMagick is free software delivered as a ready-to-run binary distribution or as source code that you may use, copy, modify, and distribute in both open and proprietary applications. It is distributed under a derived Apache 2.0 license.
@@ -49,7 +50,7 @@ Transparency	render portions of an image invisible.
 Virtual pixel support	convenient access to pixels outside the image boundaries.
 Examples of ImageMagick Usage shows how to use ImageMagick from the command-line to accomplish any of these tasks and much more. Also, see Fred's ImageMagick Scripts: a plethora of command-line scripts that perform geometric transforms, blurs, sharpens, edging, noise removal, and color manipulations. With Magick.NET, use ImageMagick without having to install ImageMagick on your server or desktop.
 
-News
+### News
 Now that ImageMagick version 7 is released, we continue to maintain the legacy release of ImageMagick, version 6, at https://legacy.imagemagick.org. Learn how ImageMagick version 7 differs from previous versions with our porting guide.
 
 ImageMagick best practices strongly encourages you to configure a security policy that suits your local environment.
