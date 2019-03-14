@@ -1,7 +1,7 @@
 <div class="magick-header">
 <p class="text-center"><a href="#features">Features and Capabilities</a> • <a href="#news">News</a> • <a href="#community">Community</a></p>
 
-<p class="lead magick-description"><a href="https://imagemagick.org/image/wizard.jpg" title="And Now a Touch of Magick"><img class="img-fluid magick-icon" id="logo" alt="And Now a Touch of Magick" width="265" height="352" src="/script/../image/wizard.jpg"></a> 
+<p class="lead magick-description"><a href="https://imagemagick.org/image/wizard.jpg" title="And Now a Touch of Magick"><img class="img-fluid magick-icon" id="logo" alt="And Now a Touch of Magick" width="265" height="352" src="https://imagemagick.org/image/wizard.jpg"></a> 
 Use ImageMagick<sup><a href="http://tarr.uspto.gov/servlet/tarr?regser=serial&amp;entry=78333969">®</a></sup> to create, edit, compose, or convert bitmap images.  It can read and write images in a variety of <a href="/script/../script/formats.php">formats</a> (over 200) including PNG, JPEG, GIF, HEIC, TIFF, <a href="/script/../script/motion-picture.php">DPX</a>, <a href="/script/../script/high-dynamic-range.php">EXR</a>, WebP, Postscript, PDF, and SVG.  Use ImageMagick to resize, flip, mirror, rotate, distort, shear and transform images, adjust image colors, apply various special effects, or draw text, lines, polygons, ellipses and Bézier curves.</p>
 
 <p>ImageMagick is free software delivered as a ready-to-run binary distribution or as source code that you may use, copy, modify, and distribute in both open and proprietary applications. It is distributed under a derived Apache 2.0 <a href="https://imagemagick.org/script/license.php">license</a>.</p>
