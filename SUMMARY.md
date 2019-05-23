@@ -6,4 +6,5 @@
 * [Command-line](command-line.md)
 * [Resources](resources.md)
 * [Develop](develop.md)
+* [opencv](opencv.md)
 
